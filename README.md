@@ -6,10 +6,10 @@ Current Progress: Done with Data Structures
 
 
 ## TODOS:
-- [ ] Implement OrderBook
 - [ ] Implement gRPC server
 - [ ] Implement gRPC client
 - [ ] Implement frontend
 - [ ] Implement tests
+- [x] Implement OrderBook
 - [x] Get Done with needed DS
 
